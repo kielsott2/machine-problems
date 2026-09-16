@@ -13,6 +13,7 @@ wheels/
 # flat files
 *.csv
 *.pdf
+labels
 
 # Data
 data/
